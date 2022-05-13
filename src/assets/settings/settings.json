@@ -1,0 +1,26 @@
+[ 
+    {
+        "key":"manutenzione",
+        "descrizione":"disabilita il login e slogga tutti gli utenti",
+        "value":false
+    },
+    {
+        "key":"login",
+        "descrizione":"abilita/disabilita il login per gli utenti non SuperAdmin",
+        "value":true
+    },
+    {
+        "key":"registrazione",
+        "descrizione":"abilita/disabilita il servizio delle registrazioni", "value":true
+    },
+    {
+        "key":"mail service",
+        "descrizione":"attiva/disattiva il mail server",
+        "value":false
+    },
+    {
+        "key":"telegram bot",
+        "descrizione":"attiva/disattiva il bot di telegram",
+        "value":false
+    }
+]
